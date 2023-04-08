@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_RMX3031.mk
+    $(LOCAL_DIR)/evolution_RMX3031.mk
